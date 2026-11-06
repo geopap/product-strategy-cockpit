@@ -1,0 +1,13 @@
+{
+  "name": "product-strategy-cockpit",
+  "version": "1.0.0",
+  "description": "From company strategy to an outcome roadmap: driver tree, AI-assisted discovery with evidence, bets ranked by expected value, experiment readouts with guardrails, and a quarterly strategy review.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": { "node": ">=20" }
+}

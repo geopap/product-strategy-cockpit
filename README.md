@@ -2,7 +2,7 @@
 
 **From company strategy to an outcome roadmap, with the evidence behind every bet: a driver tree, AI-assisted discovery, bets ranked by expected value, experiments with guardrails, and a quarterly strategy review.**
 
-[**▶ Live demo**](https://geopap.github.io/product-strategy-cockpit/) · [Method](docs/METHOD.md) · AI life cycle: **set product strategy** → decide with [AI Use-Case Intake](https://github.com/geopap/ai-use-case-intake) → build with [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc) → prove with [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench) → govern with [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office)
+[**▶ Live demo**](https://geopap.github.io/product-strategy-cockpit/) · [Method](docs/METHOD.md) · AI life cycle: **set product strategy** → decide with [AI Use-Case Intake](https://github.com/geopap/ai-use-case-intake) → govern with [AI Portfolio Office](https://github.com/geopap/ai-portfolio-office) → build with [Claude Code SDLC](https://github.com/geopap/claude-code-sdlc) → prove with [AI Eval Workbench](https://github.com/geopap/ai-eval-workbench)
 
 ![Cockpit overview](docs/screenshots/overview.png)
 
